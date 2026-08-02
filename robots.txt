@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-0dak99.koi888.sbs/sitemap.xml
